@@ -6,4 +6,4 @@
 * Parameter Estimation
 * Dynamic Estimation and Kalman Filters
 
-#### Here, the MATLAB simulation of the paper [On the identification of variances and adaptive Kalman filtering](https://ieeexplore.ieee.org/document/1099422)
+#### Here, the MATLAB simulation of the paper [On the identification of variances and adaptive Kalman filtering](https://ieeexplore.ieee.org/document/1099422) can be found, as well as the course HW assignments.
